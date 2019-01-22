@@ -2,3 +2,4 @@
 *.txt
 *.attrib
 *.war
+!xyz.txt
